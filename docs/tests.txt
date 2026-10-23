@@ -1,0 +1,17 @@
+Local test run; filesystem paths redacted.
+
+test_all_cli_demos (test_labs.LabTests.test_all_cli_demos) ... ok
+test_decode_never_claims_verified_signature (test_labs.LabTests.test_decode_never_claims_verified_signature) ... ok
+test_jwt_rejects_malformed_nonobjects_and_oversized (test_labs.LabTests.test_jwt_rejects_malformed_nonobjects_and_oversized) ... ok
+test_legal_movement_is_not_flagged (test_labs.LabTests.test_legal_movement_is_not_flagged) ... ok
+test_lsb_byte_order (test_labs.LabTests.test_lsb_byte_order) ... ok
+test_lsb_truncation_and_invalid_channel (test_labs.LabTests.test_lsb_truncation_and_invalid_channel) ... ok
+test_reconstruction_remains_partial (test_labs.LabTests.test_reconstruction_remains_partial) ... ok
+test_rsa_rejects_large_invalid_and_prime_moduli (test_labs.LabTests.test_rsa_rejects_large_invalid_and_prime_moduli) ... ok
+test_timezone_required (test_labs.LabTests.test_timezone_required) ... ok
+test_tiny_rsa_recovers_known_plaintext (test_labs.LabTests.test_tiny_rsa_recovers_known_plaintext) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.068s
+
+OK

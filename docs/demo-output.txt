@@ -1,0 +1,12 @@
+SYNTHETIC LOCAL DEMO — NOT ORIGINAL / PRODUCTION EVIDENCE
+
+$ python -m ctf_lab rsa
+
+{
+  "n_bits": 20,
+  "p": 1009,
+  "q": 1013,
+  "plaintext_hex": "6f6b",
+  "plaintext": "ok",
+  "scope": "Synthetic tiny RSA; not the original CTF modulus or flag"
+}
