@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cyber-ctf-writeups"
+version = "1.0.0"
+description = "Sanitized CTF write-ups and reproducible offline teaching labs"
+requires-python = ">=3.11"
+dependencies = []
+license = "MIT"
+authors = [{name = "Alef Kaue Santos Nunes"}]
+
+[project.scripts]
+ctf-lab = "ctf_lab.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["ctf_lab*"]
