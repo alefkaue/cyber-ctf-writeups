@@ -1,5 +1,7 @@
 # Write-ups de CTF — Alef Kaue Santos Nunes
 
+**Área do portfólio:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Contexto:** Projeto acadêmico e demonstrações pessoais
+
 Conquistei o **3º lugar geral no CTF da Faculdade SENAI São Caetano do Sul**, conforme informação
 fornecida por mim. Os relatórios sustentam as atividades técnicas; não comprovam a classificação.
 A competição teve categorias de redes, criptografia, web, OSINT e investigação técnica.
