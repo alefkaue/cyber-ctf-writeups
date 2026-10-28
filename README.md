@@ -1,7 +1,5 @@
 # Cyber CTF Write-ups
 
-**Portfolio area:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Context:** Academic investigation and personal demos
-
 Academic investigations, honest outcomes and safe offline reconstructions by **Alef Kaue Santos Nunes**.
 [Português](README.pt-BR.md) · [Evidence policy](docs/evidence-policy.md)
 
